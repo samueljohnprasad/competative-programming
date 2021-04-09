@@ -1,0 +1,574 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch robot",
+            "request": "launch",
+            "mainClass": "graphs.OnlineJudge.robot",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _2ArticulationPointDFS",
+            "request": "launch",
+            "mainClass": "graphs.CPBook._2ArticulationPointDFS",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _20Dijkstras",
+            "request": "launch",
+            "mainClass": "graphs.BC._20Dijkstras",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Graph",
+            "request": "launch",
+            "mainClass": "graphs.BC.Graph",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _17PathCompressionOptimistionDSU",
+            "request": "launch",
+            "mainClass": "graphs.BC._17PathCompressionOptimistionDSU",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _18UnionByRankOptimization",
+            "request": "launch",
+            "mainClass": "graphs.BC._18UnionByRankOptimization",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _15StronglyConnectedCompDfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._15StronglyConnectedCompDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _14CycleDetectionDirectedDfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._14CycleDetectionDirectedDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _13TopologicalSortBfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._13TopologicalSortBfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _12TopologicalSortDfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._12TopologicalSortDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _11ShorestCycleInUndirectedDfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._11ShorestCycleInUndirectedDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _10BipartiteCheckDfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._10BipartiteCheckDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _9CycleDetectionUndirectedGraphDfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._9CycleDetectionUndirectedGraphDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch _4DistFromRootNodeBfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._4DistFromRootNodeBfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _5ShortestPathSnakeLadderBfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._5ShortestPathSnakeLadderBfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _6ConnectedGraphsDfs",
+            "request": "launch",
+            "mainClass": "graphs.BC._6ConnectedGraphsDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _7HolidayAccommodation",
+            "request": "launch",
+            "mainClass": "graphs.BC._7HolidayAccommodation",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _8FloodFill",
+            "request": "launch",
+            "mainClass": "graphs.BC._8FloodFill",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyMain",
+            "request": "launch",
+            "mainClass": "graphs.MyMain",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdjacencyMatrix",
+            "request": "launch",
+            "mainClass": "graphs.NC.AdjacencyMatrix",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bfs",
+            "request": "launch",
+            "mainClass": "graphs.NC.Bfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dfs",
+            "request": "launch",
+            "mainClass": "graphs.NC.Dfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DfsForComponents",
+            "request": "launch",
+            "mainClass": "graphs.NC.DfsForComponents",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasPathBfs",
+            "request": "launch",
+            "mainClass": "graphs.NC.HasPathBfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasPathDfs",
+            "request": "launch",
+            "mainClass": "graphs.NC.HasPathDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Krushkals",
+            "request": "launch",
+            "mainClass": "graphs.NC.Krushkals",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prims",
+            "request": "launch",
+            "mainClass": "graphs.NC.Prims",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _1adjacentList",
+            "request": "launch",
+            "mainClass": "graphs.NC._1adjacentList",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _2adjacentListGenericData",
+            "request": "launch",
+            "mainClass": "graphs.NC._2adjacentListGenericData",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _7getPathDfs",
+            "request": "launch",
+            "mainClass": "graphs.NC._7getPathDfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _8getPathBfs",
+            "request": "launch",
+            "mainClass": "graphs.NC._8getPathBfs",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _9isConnected",
+            "request": "launch",
+            "mainClass": "graphs.NC._9isConnected",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "graphs.NC.sa.src.App",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion.Main",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion.Test",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _10FibwithDp",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._10FibwithDp",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _11combinations",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._11combinations",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _12TowerOfHonoi",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._12TowerOfHonoi",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _1IncrementNum",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._1IncrementNum",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _2decrementNum",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._2decrementNum",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3RecusionWithStaticVar",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._3RecusionWithStaticVar",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _4TypesOfRecursions",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._4TypesOfRecursions",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _5SumOfNaturalNum",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._5SumOfNaturalNum",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _6PowerRecursion",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._6PowerRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _7TaylorSeries",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._7TaylorSeries",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _8Fac",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._8Fac",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _9Fib",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion._9Fib",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _1Ques",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion.practise._1Ques",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _2Ques",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion.practise._2Ques",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3Ques",
+            "request": "launch",
+            "mainClass": "recursion.AbulRecursion.practise._3Ques",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckIfArraySorted",
+            "request": "launch",
+            "mainClass": "recursion.CheckIfArraySorted",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMaxOfArrayRecursion",
+            "request": "launch",
+            "mainClass": "recursion.FindMaxOfArrayRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindSumNum",
+            "request": "launch",
+            "mainClass": "recursion.FindSumNum",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch LengthOfChar",
+            "request": "launch",
+            "mainClass": "recursion.LengthOfChar",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeInt",
+            "request": "launch",
+            "mainClass": "recursion.PalindromeInt",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintStringArrayAsChar",
+            "request": "launch",
+            "mainClass": "recursion.PrintStringArrayAsChar",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseNum",
+            "request": "launch",
+            "mainClass": "recursion.ReverseNum",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseString",
+            "request": "launch",
+            "mainClass": "recursion.ReverseString",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "recursion.Solution",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubArray",
+            "request": "launch",
+            "mainClass": "recursion.SubArray",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch fact",
+            "request": "launch",
+            "mainClass": "recursion.fact",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibi",
+            "request": "launch",
+            "mainClass": "recursion.fibi",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "recursion.test",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchRecursion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.BinarySearchRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubble_sort_recursively",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.Bubble_sort_recursively",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CrossInversion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.CrossInversion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch FastPowerRecursion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.FastPowerRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.LinearSearch",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortRecursion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.MergeSortRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MulWithoutStar",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.MulWithoutStar",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuicksortRecursion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.QuicksortRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch FriendsProblem",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.FriendsProblem",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch KnapsackRecursion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.KnapsackRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch LadderProblemRecursion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.LadderProblemRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PhoneKeypadProblemRecursion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.PhoneKeypadProblemRecursion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplacePiRecusrion",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.ReplacePiRecusrion",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringGenerationFromInt",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.StringGenerationFromInt",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToInteger",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.StringToInteger",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubSequenceGenaration",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.SubSequenceGenaration",
+            "projectName": "dsa_6cc8081a"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "recursion.tuntun.practice.demo",
+            "projectName": "dsa_6cc8081a"
+        }
+    ]
+}
