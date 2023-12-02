@@ -1,6 +1,5 @@
 package graphs.NC;
 import java.util.LinkedList;
-import java.util.List;
 
 public class _1adjacentList {
 

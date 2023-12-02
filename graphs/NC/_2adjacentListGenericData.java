@@ -19,7 +19,6 @@ public class _2adjacentListGenericData {
             map.put(x,list);
             if(birdir){
                 list.add(new pair(x,wt));
-                
                 map.put(y,list);
             }
     }

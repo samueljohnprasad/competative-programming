@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "_7Trees.practise.Tree",
+            "projectName": "competative-programming_57c36fb6"
+        },
+        {
+            "type": "java",
+            "name": "Trees",
+            "request": "launch",
+            "mainClass": "_7Trees.practise.Trees",
+            "projectName": "competative-programming_57c36fb6"
+        },
+        {
+            "type": "java",
+            "name": "AdjacencyMatrix",
+            "request": "launch",
+            "mainClass": "graphs.NC.AdjacencyMatrix",
+            "projectName": "competative-programming_57c36fb6"
+        },
+        {
+            "type": "java",
+            "name": "_1adjacentList",
+            "request": "launch",
+            "mainClass": "graphs.NC._1adjacentList",
+            "projectName": "competative-programming_57c36fb6"
+        },
+        {
+            "type": "java",
             "name": "Launch robot",
             "request": "launch",
             "mainClass": "graphs.OnlineJudge.robot",
