@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "graphs.Main",
+            "projectName": "competative-programming_57c36fb6"
+        },
+        {
+            "type": "java",
+            "name": "MyMain",
+            "request": "launch",
+            "mainClass": "graphs.MyMain",
+            "projectName": "competative-programming_57c36fb6"
+        },
+        {
+            "type": "java",
             "name": "Tree",
             "request": "launch",
             "mainClass": "_7Trees.practise.Tree",

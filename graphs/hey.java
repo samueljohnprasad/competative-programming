@@ -3,8 +3,8 @@ package graphs;
 import java.util.*;
 class Main {
     public static void main(String ar[]) {
-    //int arr[] = { 1, 2, 5, 3, 6, 2, 0, 1, 7, 0, 6, 0 };
-        int arr[] = { 0, 0, 0, 0,0, 0, 0, 0, 1, 1, 1 };
+    int arr[] = { 1, 2, 5, 3, 6, 2, 0, 1, 7, 0, 6, 0 };
+        // int arr[] = { 0, 0, 0, 0,0, 0, 0, 0, 1, 1, 1 };
 
         swapZeros(arr);
 
